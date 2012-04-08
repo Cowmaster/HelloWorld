@@ -1,0 +1,7 @@
+name: HelloWorld
+main: com.github.Cowmaster.HelloWorld.HelloWorld
+version: 1.0
+commands:
+   h:
+      description: This is a demo command.
+      usage: /h
